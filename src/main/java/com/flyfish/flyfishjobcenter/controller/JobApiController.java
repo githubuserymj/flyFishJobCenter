@@ -1,7 +1,7 @@
 package com.flyfish.flyfishjobcenter.controller;
 
-import com.xxl.job.admin.controller.annotation.PermissionLimit;
-import com.xxl.job.admin.core.conf.XxlJobAdminConfig;
+import com.flyfish.flyfishjobcenter.controller.annotation.PermissionLimit;
+import com.flyfish.flyfishjobcenter.core.conf.XxlJobAdminConfig;
 import com.xxl.job.core.biz.AdminBiz;
 import com.xxl.job.core.biz.model.HandleCallbackParam;
 import com.xxl.job.core.biz.model.RegistryParam;

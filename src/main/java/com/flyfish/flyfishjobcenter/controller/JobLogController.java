@@ -1,15 +1,15 @@
 package com.flyfish.flyfishjobcenter.controller;
 
-import com.xxl.job.admin.core.complete.XxlJobCompleter;
-import com.xxl.job.admin.core.exception.XxlJobException;
-import com.xxl.job.admin.core.model.XxlJobGroup;
-import com.xxl.job.admin.core.model.XxlJobInfo;
-import com.xxl.job.admin.core.model.XxlJobLog;
-import com.xxl.job.admin.core.scheduler.XxlJobScheduler;
-import com.xxl.job.admin.core.util.I18nUtil;
-import com.xxl.job.admin.dao.XxlJobGroupDao;
-import com.xxl.job.admin.dao.XxlJobInfoDao;
-import com.xxl.job.admin.dao.XxlJobLogDao;
+import com.flyfish.flyfishjobcenter.core.complete.XxlJobCompleter;
+import com.flyfish.flyfishjobcenter.core.exception.XxlJobException;
+import com.flyfish.flyfishjobcenter.core.model.XxlJobGroup;
+import com.flyfish.flyfishjobcenter.core.model.XxlJobInfo;
+import com.flyfish.flyfishjobcenter.core.model.XxlJobLog;
+import com.flyfish.flyfishjobcenter.core.scheduler.XxlJobScheduler;
+import com.flyfish.flyfishjobcenter.core.util.I18nUtil;
+import com.flyfish.flyfishjobcenter.dao.XxlJobGroupDao;
+import com.flyfish.flyfishjobcenter.dao.XxlJobInfoDao;
+import com.flyfish.flyfishjobcenter.dao.XxlJobLogDao;
 import com.xxl.job.core.biz.ExecutorBiz;
 import com.xxl.job.core.biz.model.KillParam;
 import com.xxl.job.core.biz.model.LogParam;

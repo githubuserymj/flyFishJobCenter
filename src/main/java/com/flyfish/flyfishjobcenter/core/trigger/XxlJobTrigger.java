@@ -1,12 +1,12 @@
 package com.flyfish.flyfishjobcenter.core.trigger;
 
-import com.xxl.job.admin.core.conf.XxlJobAdminConfig;
-import com.xxl.job.admin.core.model.XxlJobGroup;
-import com.xxl.job.admin.core.model.XxlJobInfo;
-import com.xxl.job.admin.core.model.XxlJobLog;
-import com.xxl.job.admin.core.route.ExecutorRouteStrategyEnum;
-import com.xxl.job.admin.core.scheduler.XxlJobScheduler;
-import com.xxl.job.admin.core.util.I18nUtil;
+import com.flyfish.flyfishjobcenter.core.conf.XxlJobAdminConfig;
+import com.flyfish.flyfishjobcenter.core.model.XxlJobGroup;
+import com.flyfish.flyfishjobcenter.core.model.XxlJobInfo;
+import com.flyfish.flyfishjobcenter.core.model.XxlJobLog;
+import com.flyfish.flyfishjobcenter.core.route.ExecutorRouteStrategyEnum;
+import com.flyfish.flyfishjobcenter.core.scheduler.XxlJobScheduler;
+import com.flyfish.flyfishjobcenter.core.util.I18nUtil;
 import com.xxl.job.core.biz.ExecutorBiz;
 import com.xxl.job.core.biz.model.ReturnT;
 import com.xxl.job.core.biz.model.TriggerParam;

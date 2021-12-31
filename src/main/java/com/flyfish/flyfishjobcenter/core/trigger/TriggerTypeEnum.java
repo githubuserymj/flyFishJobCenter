@@ -1,6 +1,6 @@
 package com.flyfish.flyfishjobcenter.core.trigger;
 
-import com.xxl.job.admin.core.util.I18nUtil;
+import com.flyfish.flyfishjobcenter.core.util.I18nUtil;
 
 /**
  * trigger type enum

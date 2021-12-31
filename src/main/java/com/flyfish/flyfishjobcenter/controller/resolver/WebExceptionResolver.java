@@ -1,7 +1,7 @@
 package com.flyfish.flyfishjobcenter.controller.resolver;
 
-import com.xxl.job.admin.core.exception.XxlJobException;
-import com.xxl.job.admin.core.util.JacksonUtil;
+import com.flyfish.flyfishjobcenter.core.exception.XxlJobException;
+import com.flyfish.flyfishjobcenter.core.util.JacksonUtil;
 import com.xxl.job.core.biz.model.ReturnT;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

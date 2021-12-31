@@ -1,12 +1,12 @@
-package com.flyfish.flyfishjobcenter.core.old;//package com.xxl.job.admin.core.schedule;
+package com.flyfish.flyfishjobcenter.core.old;//package com.flyfish.flyfishjobcenter.core.schedule;
 //
-//import com.xxl.job.admin.core.conf.XxlJobAdminConfig;
-//import com.xxl.job.admin.core.jobbean.RemoteHttpJobBean;
-//import com.xxl.job.admin.core.model.XxlJobInfo;
-//import com.xxl.job.admin.core.thread.JobFailMonitorHelper;
-//import com.xxl.job.admin.core.thread.JobRegistryMonitorHelper;
-//import com.xxl.job.admin.core.thread.JobTriggerPoolHelper;
-//import com.xxl.job.admin.core.util.I18nUtil;
+//import com.flyfish.flyfishjobcenter.core.conf.XxlJobAdminConfig;
+//import com.flyfish.flyfishjobcenter.core.jobbean.RemoteHttpJobBean;
+//import com.flyfish.flyfishjobcenter.core.model.XxlJobInfo;
+//import com.flyfish.flyfishjobcenter.core.thread.JobFailMonitorHelper;
+//import com.flyfish.flyfishjobcenter.core.thread.JobRegistryMonitorHelper;
+//import com.flyfish.flyfishjobcenter.core.thread.JobTriggerPoolHelper;
+//import com.flyfish.flyfishjobcenter.core.util.I18nUtil;
 //import com.xxl.job.core.biz.AdminBiz;
 //import com.xxl.job.core.biz.ExecutorBiz;
 //import com.xxl.job.core.enums.ExecutorBlockStrategyEnum;

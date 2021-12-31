@@ -1,7 +1,7 @@
-package com.flyfish.flyfishjobcenter.core.old;//package com.xxl.job.admin.core.jobbean;
+package com.flyfish.flyfishjobcenter.core.old;//package com.flyfish.flyfishjobcenter.core.jobbean;
 //
-//import com.xxl.job.admin.core.thread.JobTriggerPoolHelper;
-//import com.xxl.job.admin.core.trigger.TriggerTypeEnum;
+//import com.flyfish.flyfishjobcenter.core.thread.JobTriggerPoolHelper;
+//import com.flyfish.flyfishjobcenter.core.trigger.TriggerTypeEnum;
 //import org.quartz.JobExecutionContext;
 //import org.quartz.JobExecutionException;
 //import org.quartz.JobKey;

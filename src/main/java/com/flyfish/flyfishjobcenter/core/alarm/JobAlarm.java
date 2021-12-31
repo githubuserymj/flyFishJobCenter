@@ -1,7 +1,7 @@
 package com.flyfish.flyfishjobcenter.core.alarm;
 
-import com.xxl.job.admin.core.model.XxlJobInfo;
-import com.xxl.job.admin.core.model.XxlJobLog;
+import com.flyfish.flyfishjobcenter.core.model.XxlJobInfo;
+import com.flyfish.flyfishjobcenter.core.model.XxlJobLog;
 
 /**
  * @author xuxueli 2020-01-19

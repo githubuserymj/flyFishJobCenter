@@ -1,9 +1,9 @@
 package com.flyfish.flyfishjobcenter.controller.interceptor;
 
-import com.xxl.job.admin.controller.annotation.PermissionLimit;
-import com.xxl.job.admin.core.model.XxlJobUser;
-import com.xxl.job.admin.core.util.I18nUtil;
-import com.xxl.job.admin.service.LoginService;
+import com.flyfish.flyfishjobcenter.controller.annotation.PermissionLimit;
+import com.flyfish.flyfishjobcenter.core.model.XxlJobUser;
+import com.flyfish.flyfishjobcenter.core.util.I18nUtil;
+import com.flyfish.flyfishjobcenter.service.LoginService;
 import org.springframework.stereotype.Component;
 import org.springframework.web.method.HandlerMethod;
 import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;

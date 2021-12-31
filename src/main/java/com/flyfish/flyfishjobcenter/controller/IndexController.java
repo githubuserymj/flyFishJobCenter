@@ -1,8 +1,8 @@
 package com.flyfish.flyfishjobcenter.controller;
 
-import com.xxl.job.admin.controller.annotation.PermissionLimit;
-import com.xxl.job.admin.service.LoginService;
-import com.xxl.job.admin.service.XxlJobService;
+import com.flyfish.flyfishjobcenter.controller.annotation.PermissionLimit;
+import com.flyfish.flyfishjobcenter.service.LoginService;
+import com.flyfish.flyfishjobcenter.service.XxlJobService;
 import com.xxl.job.core.biz.model.ReturnT;
 import org.springframework.beans.propertyeditors.CustomDateEditor;
 import org.springframework.stereotype.Controller;

@@ -1,4 +1,4 @@
-package com.flyfish.flyfishjobcenter.core.old;//package com.xxl.job.admin.core.quartz;
+package com.flyfish.flyfishjobcenter.core.old;//package com.flyfish.flyfishjobcenter.core.quartz;
 //
 //import org.quartz.SchedulerConfigException;
 //import org.quartz.spi.ThreadPool;

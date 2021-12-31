@@ -1,7 +1,7 @@
 package com.flyfish.flyfishjobcenter.core.route;
 
-import com.xxl.job.admin.core.route.strategy.*;
-import com.xxl.job.admin.core.util.I18nUtil;
+import com.flyfish.flyfishjobcenter.core.route.strategy.*;
+import com.flyfish.flyfishjobcenter.core.util.I18nUtil;
 
 /**
  * Created by xuxueli on 17/3/10.

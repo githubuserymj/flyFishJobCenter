@@ -1,8 +1,8 @@
 package com.flyfish.flyfishjobcenter.core.conf;
 
-import com.xxl.job.admin.core.alarm.JobAlarmer;
-import com.xxl.job.admin.core.scheduler.XxlJobScheduler;
-import com.xxl.job.admin.dao.*;
+import com.flyfish.flyfishjobcenter.core.alarm.JobAlarmer;
+import com.flyfish.flyfishjobcenter.core.scheduler.XxlJobScheduler;
+import com.flyfish.flyfishjobcenter.dao.*;
 import org.springframework.beans.factory.DisposableBean;
 import org.springframework.beans.factory.InitializingBean;
 import org.springframework.beans.factory.annotation.Value;

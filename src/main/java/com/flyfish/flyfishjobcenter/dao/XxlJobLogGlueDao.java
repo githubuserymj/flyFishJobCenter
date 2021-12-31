@@ -1,6 +1,6 @@
 package com.flyfish.flyfishjobcenter.dao;
 
-import com.xxl.job.admin.core.model.XxlJobLogGlue;
+import com.flyfish.flyfishjobcenter.core.model.XxlJobLogGlue;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
 

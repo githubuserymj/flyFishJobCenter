@@ -1,6 +1,6 @@
 package com.flyfish.flyfishjobcenter.core.util;
 
-import com.xxl.job.admin.core.conf.XxlJobAdminConfig;
+import com.flyfish.flyfishjobcenter.core.conf.XxlJobAdminConfig;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.core.io.ClassPathResource;

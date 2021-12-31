@@ -1,7 +1,7 @@
 package com.flyfish.flyfishjobcenter.core.alarm;
 
-import com.xxl.job.admin.core.model.XxlJobInfo;
-import com.xxl.job.admin.core.model.XxlJobLog;
+import com.flyfish.flyfishjobcenter.core.model.XxlJobInfo;
+import com.flyfish.flyfishjobcenter.core.model.XxlJobLog;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.BeansException;

@@ -1,7 +1,7 @@
 package com.flyfish.flyfishjobcenter.core.thread;
 
-import com.xxl.job.admin.core.conf.XxlJobAdminConfig;
-import com.xxl.job.admin.core.model.XxlJobLogReport;
+import com.flyfish.flyfishjobcenter.core.conf.XxlJobAdminConfig;
+import com.flyfish.flyfishjobcenter.core.model.XxlJobLogReport;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

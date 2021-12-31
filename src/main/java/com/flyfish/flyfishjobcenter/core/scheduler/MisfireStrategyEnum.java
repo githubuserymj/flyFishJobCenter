@@ -1,6 +1,6 @@
 package com.flyfish.flyfishjobcenter.core.scheduler;
 
-import com.xxl.job.admin.core.util.I18nUtil;
+import com.flyfish.flyfishjobcenter.core.util.I18nUtil;
 
 /**
  * @author xuxueli 2020-10-29 21:11:23

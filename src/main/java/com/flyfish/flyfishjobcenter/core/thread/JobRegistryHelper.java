@@ -1,8 +1,8 @@
 package com.flyfish.flyfishjobcenter.core.thread;
 
-import com.xxl.job.admin.core.conf.XxlJobAdminConfig;
-import com.xxl.job.admin.core.model.XxlJobGroup;
-import com.xxl.job.admin.core.model.XxlJobRegistry;
+import com.flyfish.flyfishjobcenter.core.conf.XxlJobAdminConfig;
+import com.flyfish.flyfishjobcenter.core.model.XxlJobGroup;
+import com.flyfish.flyfishjobcenter.core.model.XxlJobRegistry;
 import com.xxl.job.core.biz.model.RegistryParam;
 import com.xxl.job.core.biz.model.ReturnT;
 import com.xxl.job.core.enums.RegistryConfig;

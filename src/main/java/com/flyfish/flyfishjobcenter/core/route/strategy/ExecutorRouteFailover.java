@@ -1,8 +1,8 @@
 package com.flyfish.flyfishjobcenter.core.route.strategy;
 
-import com.xxl.job.admin.core.route.ExecutorRouter;
-import com.xxl.job.admin.core.scheduler.XxlJobScheduler;
-import com.xxl.job.admin.core.util.I18nUtil;
+import com.flyfish.flyfishjobcenter.core.route.ExecutorRouter;
+import com.flyfish.flyfishjobcenter.core.scheduler.XxlJobScheduler;
+import com.flyfish.flyfishjobcenter.core.util.I18nUtil;
 import com.xxl.job.core.biz.ExecutorBiz;
 import com.xxl.job.core.biz.model.ReturnT;
 import com.xxl.job.core.biz.model.TriggerParam;

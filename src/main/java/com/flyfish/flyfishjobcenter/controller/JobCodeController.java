@@ -1,10 +1,10 @@
 package com.flyfish.flyfishjobcenter.controller;
 
-import com.xxl.job.admin.core.model.XxlJobInfo;
-import com.xxl.job.admin.core.model.XxlJobLogGlue;
-import com.xxl.job.admin.core.util.I18nUtil;
-import com.xxl.job.admin.dao.XxlJobInfoDao;
-import com.xxl.job.admin.dao.XxlJobLogGlueDao;
+import com.flyfish.flyfishjobcenter.core.model.XxlJobInfo;
+import com.flyfish.flyfishjobcenter.core.model.XxlJobLogGlue;
+import com.flyfish.flyfishjobcenter.core.util.I18nUtil;
+import com.flyfish.flyfishjobcenter.dao.XxlJobInfoDao;
+import com.flyfish.flyfishjobcenter.dao.XxlJobLogGlueDao;
 import com.xxl.job.core.biz.model.ReturnT;
 import com.xxl.job.core.glue.GlueTypeEnum;
 import org.springframework.stereotype.Controller;

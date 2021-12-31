@@ -1,7 +1,7 @@
 package com.flyfish.flyfishjobcenter.controller.interceptor;
 
-import com.xxl.job.admin.core.util.FtlUtil;
-import com.xxl.job.admin.core.util.I18nUtil;
+import com.flyfish.flyfishjobcenter.core.util.FtlUtil;
+import com.flyfish.flyfishjobcenter.core.util.I18nUtil;
 import org.springframework.stereotype.Component;
 import org.springframework.web.servlet.ModelAndView;
 import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;

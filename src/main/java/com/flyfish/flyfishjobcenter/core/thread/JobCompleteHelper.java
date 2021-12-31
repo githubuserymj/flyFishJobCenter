@@ -1,9 +1,9 @@
 package com.flyfish.flyfishjobcenter.core.thread;
 
-import com.xxl.job.admin.core.complete.XxlJobCompleter;
-import com.xxl.job.admin.core.conf.XxlJobAdminConfig;
-import com.xxl.job.admin.core.model.XxlJobLog;
-import com.xxl.job.admin.core.util.I18nUtil;
+import com.flyfish.flyfishjobcenter.core.complete.XxlJobCompleter;
+import com.flyfish.flyfishjobcenter.core.conf.XxlJobAdminConfig;
+import com.flyfish.flyfishjobcenter.core.model.XxlJobLog;
+import com.flyfish.flyfishjobcenter.core.util.I18nUtil;
 import com.xxl.job.core.biz.model.HandleCallbackParam;
 import com.xxl.job.core.biz.model.ReturnT;
 import com.xxl.job.core.util.DateUtil;

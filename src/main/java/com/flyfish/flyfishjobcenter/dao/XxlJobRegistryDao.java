@@ -1,6 +1,6 @@
 package com.flyfish.flyfishjobcenter.dao;
 
-import com.xxl.job.admin.core.model.XxlJobRegistry;
+import com.flyfish.flyfishjobcenter.core.model.XxlJobRegistry;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
 

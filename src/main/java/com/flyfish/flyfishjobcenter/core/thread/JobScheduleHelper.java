@@ -1,11 +1,11 @@
 package com.flyfish.flyfishjobcenter.core.thread;
 
-import com.xxl.job.admin.core.conf.XxlJobAdminConfig;
-import com.xxl.job.admin.core.cron.CronExpression;
-import com.xxl.job.admin.core.model.XxlJobInfo;
-import com.xxl.job.admin.core.scheduler.MisfireStrategyEnum;
-import com.xxl.job.admin.core.scheduler.ScheduleTypeEnum;
-import com.xxl.job.admin.core.trigger.TriggerTypeEnum;
+import com.flyfish.flyfishjobcenter.core.conf.XxlJobAdminConfig;
+import com.flyfish.flyfishjobcenter.core.cron.CronExpression;
+import com.flyfish.flyfishjobcenter.core.model.XxlJobInfo;
+import com.flyfish.flyfishjobcenter.core.scheduler.MisfireStrategyEnum;
+import com.flyfish.flyfishjobcenter.core.scheduler.ScheduleTypeEnum;
+import com.flyfish.flyfishjobcenter.core.trigger.TriggerTypeEnum;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

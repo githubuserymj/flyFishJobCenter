@@ -1,7 +1,7 @@
 package com.flyfish.flyfishjobcenter.service;
 
 
-import com.xxl.job.admin.core.model.XxlJobInfo;
+import com.flyfish.flyfishjobcenter.core.model.XxlJobInfo;
 import com.xxl.job.core.biz.model.ReturnT;
 
 import java.util.Date;
