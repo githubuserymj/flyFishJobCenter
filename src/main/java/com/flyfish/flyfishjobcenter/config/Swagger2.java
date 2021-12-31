@@ -23,7 +23,7 @@ public class Swagger2 {
      */
     private final String SWAGGER2_API_BASEPACKAGE = "com.flyfish.flyfishjobcenter.controller";
 
-    private final String SWAGGER2_API_TITLE = "Demo-API";
+    private final String SWAGGER2_API_TITLE = "飞鱼任务调度中心";
     /** API 描述 */
     private final String SWAGGER2_API_DESCRIPTION = "飞鱼任务调度中心接口说明";
     private final String SWAGGER2_API_CONTACT = "Demo";
