@@ -1,5 +1,6 @@
 package com.flyfish.flyfishjobcenter.config;
 
+import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import springfox.documentation.builders.ApiInfoBuilder;
@@ -15,16 +16,16 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
  */
 @Configuration
 @EnableSwagger2
-//@ConditionalOnProperty(name = "swagger.enable", havingValue = "true")
+@ConditionalOnProperty(name = "swagger.enable", havingValue = "true")
 public class Swagger2 {
     /**
      * UI页面显示信息
      */
-    private final String SWAGGER2_API_BASEPACKAGE = "com.hikvision.pbg.sc.modules.controller";
+    private final String SWAGGER2_API_BASEPACKAGE = "com.flyfish.flyfishjobcenter.controller";
 
     private final String SWAGGER2_API_TITLE = "Demo-API";
     /** API 描述 */
-    private final String SWAGGER2_API_DESCRIPTION = "hik job任务调度中心接口说明";
+    private final String SWAGGER2_API_DESCRIPTION = "飞鱼任务调度中心接口说明";
     private final String SWAGGER2_API_CONTACT = "Demo";
     private final String SWAGGER2_API_VERSION = "1.0";
 
